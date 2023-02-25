@@ -9,5 +9,12 @@
   },
   "devDependencies": {
     "nuxt": "^3.0.0"
+  },
+  "dependencies": {
+    "@nuxtjs/auth-next": "5.0.0-1667386184.dfbbb54",
+    "@nuxtjs/axios": "^5.13.6",
+    "sass": "^1.57.1",
+    "vue-toastification": "^2.0.0-rc.5",
+    "vuex": "^4.1.0"
   }
 }
